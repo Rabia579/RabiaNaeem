@@ -25,7 +25,7 @@
 
 ##  Connect With Me  
 -  Email: rny2pk@gmail.com  
--  LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/rabia-naeem-a0b4a6318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+-  LinkedIn: [Rabia Naeem]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/rabia-naeem-a0b4a6318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
 
 ✨ *“Technology + Creativity = Limitless Innovation”* ✨
