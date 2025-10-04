@@ -1,4 +1,4 @@
-                                                                 **Hi! I'm Rabia Naeem** 
+  # Hi! I'm Rabia Naeem 
                                                               
 
  Passionate Software Engineering student & tech enthusiast exploring **Web Development, Data Science, and AI**.  
