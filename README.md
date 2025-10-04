@@ -1,5 +1,5 @@
-
-                                                                Hi! I'm Rabia Naeem  
+                                                                 **Hi! I'm Rabia Naeem** 
+                                                              
 
  Passionate Software Engineering student & tech enthusiast exploring **Web Development, Data Science, and AI**.  
  I believe in learning by building, and I love working on projects that mix **creativity + technology**.  
