@@ -13,8 +13,11 @@
 
 
 ##  Featured Projects  
-🔹 [InnoNerds Event Planner](https://github.com/Rabia579/InnoNerds_Event_Planner) – Event management system with admin panel & reports.  
-🔹 [Tic Tac Toe Game](https://github.com/Rabia579/Tic_Tac_Toe) - C++
+- [InnoNerds Event Planner](link) – Event management system with admin panel & reports.
+- [Tic Tac Toe Game](link) - C++
+- [StaySmart AI](https://github.com/RabiaNaeem/staysmart-ai) – Full-stack property rental & roommate-matching platform with AI-powered price predictions and personalized recommendations. (PHP, MySQL, Python/Flask microservice)
+- [SkillBridge](https://github.com/RabiaNaeem/skillbridge) – Real-time freelance marketplace connecting university students with clients, covering the full gig lifecycle from posting to hire to chat to payment. (Flutter, BLoC, Firebase)
+- [Skin Type Analyzer](https://github.com/RabiaNaeem/skin-type-analyzer) – Deep learning app that classifies skin type (Oily/Dry/Normal) from a photo using transfer learning on EfficientNetB0. (Python, TensorFlow, FastAPI)
  
 
 
