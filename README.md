@@ -20,8 +20,8 @@ I believe in learning by building, and I love working on projects that mix **cre
 
 ## GitHub Stats
 
-![Rabia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabiaNaeem&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabiaNaeem&layout=compact&theme=dark)
+![Rabia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabia579&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia579&layout=compact&theme=dark)
 
 ## Connect With Me
 
