@@ -13,7 +13,7 @@ I believe in learning by building, and I love working on projects that mix **cre
 ## Featured Projects
 
 - [InnoNerds Event Planner](https://github.com/Rabia579/InnoNerds_Event_PlannerProject.git) – Event management system with admin panel & reports. (PHP, MySQL)
-- [Tic Tac Toe Game](#) – Classic console game. (C++)
+- [Tic Tac Toe Game](https://github.com/innonerdss/Tic-Tac-Toe-Game.git) – Classic console game. (C++)
 - [StaySmart AI](https://github.com/RabiaNaeem/staysmart-ai) – Full-stack property rental & roommate-matching platform with AI-powered price predictions and personalized recommendations. (PHP, MySQL, Python/Flask)
 - [SkillBridge](https://github.com/RabiaNaeem/skillbridge) – Real-time freelance marketplace connecting university students with clients, covering the full gig lifecycle from posting to hire to chat to payment. (Flutter, BLoC, Firebase)
 - [Skin Type Analyzer](https://github.com/RabiaNaeem/skin-type-analyzer) – Deep learning app that classifies skin type (Oily/Dry/Normal) from a photo using transfer learning on EfficientNetB0. (Python, TensorFlow, FastAPI)
